@@ -1,5 +1,5 @@
 # SWE3311 Java Programming Assignment
-Student: [Your Name]
+Braimah Marvellous CST/22/COM/00900
 
 ---
 
